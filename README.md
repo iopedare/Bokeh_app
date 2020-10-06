@@ -1,3 +1,10 @@
-# Bokeh_app with Django
+# Bokeh_app(Data Visualization) with Django
 
-Data Visualization.
+1. Clone this repo
+2. cd in to graphs
+3. run "pip install django"
+4. run "python manage.py runserver"
+
+
+
+
